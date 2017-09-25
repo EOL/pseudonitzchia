@@ -6,6 +6,7 @@
       "dcterms:bibliographicCitation": "A. Thessen. 2014. Species associations extracted from EOL text data objects via text mining.",
       "tableSchema": "associations_all_revised.txt-schema.json",
       "headerRowCount": 0,
+      "delimiter": "\t",
       "interactionTypeId": "http://purl.obolibrary.org/obo/RO_0002437",
       "interactionTypeName": "interactsWith"
     }
