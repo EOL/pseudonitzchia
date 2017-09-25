@@ -29,3 +29,5 @@ represent EOL taxon IDs. The first column is the EOL taxon ID for the taxon page
 mined. The second column is the EOL taxon ID for the taxon that was found in a text object 
 on the taxon page for the taxon in the first column. There is an implied interaction 
 between the two taxa in each row. The type of interaction is unknown.
+
+Ready for discovery through http://globalbioticinteractions.org .

@@ -1,0 +1,19 @@
+{
+    "columns": [
+      {
+        "name": "sourceTaxonId",
+        "datatype": { 
+          "id" : "http://eol.org/schema/taxonID",
+          "base" :"decimal"
+        }
+      }, 
+      {
+        "name": "targetTaxonId",
+        "datatype": { 
+          "id" : "http://eol.org/schema/taxonID",
+          "base" :"decimal"
+        }
+      }
+    ]
+}
+ 
